@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Olma",
+        "price": "12 000 so'm",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "title": "Nok",
+        "price": "22 000 so'm",
+        "branchId": 1
+    },
+    {
+        "id": 3,
+        "title": "Uzum",
+        "price": "18 000 so'm",
+        "branchId": 2
+    },
+    {
+        "id": 4,
+        "title": "Shaftoli",
+        "price": "13 000 so'm",
+        "branchId": 2
+    },
+    {
+        "id": 5,
+        "title": "Banan",
+        "price": "13 000 so'm",
+        "branchId": 3
+    },
+    {
+        "id": 6,
+        "title": "Qovun",
+        "price": "13 000 so'm",
+        "branchId": 3
+    },
+    {
+        "id": 7,
+        "title": "Tarvuz",
+        "price": "13 000 so'm",
+        "branchId": 4
+    }
+]

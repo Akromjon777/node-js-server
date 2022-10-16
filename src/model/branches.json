@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Dikas Yangiyo'l",
+        "addres": "Yengiyo'l",
+        "marketid": 1
+    },
+    {
+        "id": 2,
+        "name": "Dikas Chilonzor",
+        "addres": "Chilonzor",
+        "marketid": 1
+    },
+    {
+        "id": 3,
+        "name": "Havas Chilonzor",
+        "addres": "Chilonzor",
+        "marketid": 2
+    },
+    {
+        "id": 4,
+        "name": "Havas Olmozor",
+        "addres": "Olmozor",
+        "marketid": 2
+    },
+    {
+        "id": 5,
+        "name": "Korzinka Chilonzor",
+        "addres": "Chilonzor",
+        "marketid": 3
+    },
+    {
+        "id": 6,
+        "name": "Korzinka Olmozor",
+        "addres": "Olmozor",
+        "marketid": 3
+    }
+]

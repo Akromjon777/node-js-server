@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Ahror",
+        "phoneNumber": "90 931 45 67",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "name": "Behruz",
+        "phoneNumber": "97 931 45 68",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "name": "Asror",
+        "phoneNumber": "71 312 44 66",
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "name": "Abdulla",
+        "phoneNumber": "99 120 44 66",
+        "branchId": 4
+    },
+    {
+        "id": 5,
+        "name": "Odil",
+        "phoneNumber": "91 871 44 66",
+        "branchId": 5
+    },
+    {
+        "id": 6,
+        "name": "Rustam",
+        "phoneNumber": "93 871 55 66",
+        "branchId": 7
+    },
+    {
+        "id": 7,
+        "name": "Jasur",
+        "phoneNumber": "97 312 25 16",
+        "branchId": 7
+    }
+]
